@@ -27,3 +27,13 @@ ENV/
 # OS-specific files
 .DS_Store
 Thumbs.db
+
+# Test & report artifacts
+reports/
+.htmlcov/
+.coverage
+pytest_cache/
+
+# Playwright cache (browsers, drivers)
+playwright/.cache/
+*/playwright/.cache/
