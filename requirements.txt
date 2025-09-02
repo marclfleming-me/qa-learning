@@ -1,0 +1,13 @@
+# Python dependencies for QA Learning project
+
+# Test automation framework
+playwright
+
+# Test runner
+pytest
+
+# Environment variables management
+python-dotenv
+
+# HTTP client (for API testing)
+requests
