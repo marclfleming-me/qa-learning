@@ -6,6 +6,10 @@ playwright
 # Test runner
 pytest
 
+# HTML report plugin + runtime metadata
+pytest-html
+pytest-metadata
+
 # Environment variables management
 python-dotenv
 
