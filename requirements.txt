@@ -1,17 +1,10 @@
-# Python dependencies for QA Learning project
-
-# Test automation framework
+# Core (from Phase 1)
 playwright
-
-# Test runner
 pytest
-
-# HTML report plugin + runtime metadata
 pytest-html
 pytest-metadata
-
-# Environment variables management
 python-dotenv
-
-# HTTP client (for API testing)
 requests
+
+# New for Phase 2 (API testing)
+jsonschema
